@@ -1,0 +1,18 @@
+
+
+.offcanvas-body a {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.offcanvas-body a i {
+  margin-right: 10px;
+  font-size: 18px; /* Ajusta el tamaño del icono según tus necesidades */
+}
+
+
+.color{
+    color: #A3AED0;
+}
